@@ -96,6 +96,8 @@ The installation takes you on a 15 minute, clearly worded, step-by-step setup an
 
 - [Mastodon](https://joinmastodon.org/) is “the world’s largest free, open-source, decentralized microblogging network.”
 
+- [Pleroma](https://pleroma.social/) is "a free, federated social networking server built on open protocols. It is compatible with GNU Social, Mastodon, and many other ActivityPub and OStatus implementations."
+
 * [Scuttlebutt](https://www.scuttlebutt.nz) gossip based p2p community social media, chess, book reviews, gatherings, ... (code [here](https://www.github.com/ssbc))
 
 * [Manyverse](https://www.manyver.se/) an implementation of scuttlebutt for mobile devices (android) - carry your social network with you, no internet required
